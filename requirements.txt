@@ -137,7 +137,7 @@ testpath==0.4.2
 text-unidecode==1.2
 tornado==6.0.3
 traitlets==4.3.2
-Twisted==19.2.1
+Twisted==19.7.0
 u-msgpack-python==2.5.2
 urllib3==1.25.3
 virtualenv==16.7.7

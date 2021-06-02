@@ -139,7 +139,7 @@ tornado==6.0.3
 traitlets==4.3.2
 Twisted==19.2.1
 u-msgpack-python==2.5.2
-urllib3==1.25.3
+urllib3==1.26.5
 virtualenv==16.7.7
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4

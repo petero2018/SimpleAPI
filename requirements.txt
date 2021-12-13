@@ -67,7 +67,7 @@ jupyter-console==6.0.0
 jupyter-core==4.5.0
 kiwisolver==1.1.0
 leather==0.3.3
-lxml==4.3.4
+lxml==4.6.5
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
